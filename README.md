@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  [![A video demo of our game.](https://img.youtube.com/vi/eXWDIJoAY8I/0.jpg)](https://www.youtube.com/watch?v=eXWDIJoAY8I)
+  ![A playthrough of the game](game_playthrough.gif)
   <br>
   Adventure Game
   <br>

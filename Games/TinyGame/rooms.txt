@@ -1,0 +1,136 @@
+1
+Outside headquarters
+Welcome to Walter's World! You are standing in front of the Headquarters.  A river flows around the building and down to the south. A road runs up a hill to the west.
+-----
+NORTH      T1
+SOUTH      T1
+EAST       T1
+WEST       T1
+UP         T1
+DOWN       T1
+TALK       NPC1/BIRD
+TALK       NPC3
+SHORTCUT   5/THISOJIJDKFDDOESNTESIEXIST.
+
+2
+Edge of cliff
+You are at the end of a path at the top of a cliff. You can see the silhouette of the Headquarters in the valley to the east.
+-----
+NORTH      3
+SOUTH      3
+EAST       3
+WEST       3
+UP         3
+DOWN       3
+TROLL      T2
+TALK       NPC2
+
+3
+Lake with portal
+You are on the banks of a vast lake. The exit portal lays south, in the middle of the lake, but it is not activated.
+-----
+NORTH      4
+SOUTH      4
+EAST       4
+WEST       4
+UP         4
+DOWN       4
+
+4
+Valley beside a stream
+You are in a valley in the forest beside a stream tumbling along a rocky bed.  The stream is flowing to the south.
+-----
+NORTH      5
+SOUTH      5
+EAST       5
+WEST       5
+UP         5
+DOWN       5
+
+5
+Snowy mountains
+You've reached the source of the river: a snow-capped mountain range with icy water flowing south.
+-----
+NORTH      6
+SOUTH      6
+EAST       6
+WEST       6
+UP         6
+DOWN       6
+
+6
+Portal1
+You are passing through a portal!
+-----
+FORCED    7/CHEST
+FORCED    9
+
+7
+Portal2
+You are passing through another portal!
+-----
+FORCED    8
+
+8
+Portal3
+Yet another portal here!
+-----
+FORCED    10
+
+9
+Missing Treasures
+You can activate and pass through this portal only if you're carrying all the treasures.  You don't have all of them yet.
+-----
+FORCED     5
+
+10
+Victory
+You have collected all the treasures and are given the red pill to go home. Congratulations!
+-----
+FORCED     0
+
+SECRET_ROOM
+Secret Room
+You have discovered the secret room! Enjoy the treasures within.
+-----
+EXIT       1
+
+T1
+Troll1
+Prepare for a fight with a troll
+-----
+FORWARD      2
+BACK         1
+
+T3
+Troll3
+Prepare for a fight with a troll
+-----
+FORWARD      3
+BACK         4
+
+T2
+Troll2
+Prepare for a fight with a troll
+-----
+FORWARD      2
+BACK         2
+
+NPC1
+n1
+You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit hole goes.
+-----
+EXIT      1
+BLUE      0
+
+NPC2
+n2
+Shadow Wizard Money Gang, We love casting spells. Legalize teleportation with a 4727ms delay to another random room.
+-----
+EXIT      2
+
+NPC3
+n3
+Hello. I am a chef. Care to taste my strength bolstering dish?
+-----
+EXIT      1

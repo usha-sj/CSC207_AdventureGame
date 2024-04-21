@@ -1,0 +1,15 @@
+BIRD
+a phoenix bird
+1
+
+CHEST
+a briefcase with confidential information
+5
+
+BOOK
+a copy of an illuminated manuscript
+3
+
+SPIRIT OF ADVENTURE
+allows you to travel across any blocked path
+SECRET_ROOM

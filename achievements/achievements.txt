@@ -1,0 +1,15 @@
+Adventure Is Out There
+Move away from the starting room. You never know what you might find.
+3
+
+Adept Adventurer
+Complete the adventure... one way or another.
+2
+
+X Marks The Spot
+Visit the secret room.
+2
+
+Master Adventurer
+Visit every room in the adventure.
+1

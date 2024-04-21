@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ![A playthrough of the game](game_playthrough.gif)
+  ![A playthrough of the game](readme_assets/game_playthrough.gif)
   <br>
   Adventure Game
   <br>

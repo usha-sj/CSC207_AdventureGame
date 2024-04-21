@@ -1,10 +1,10 @@
-<h1 align="center">
+# Adventure Game
+
+<p align="center">
   <br>
-  ![A playthrough of the game](readme_assets/game_playthrough.gif)
+  <img src="readme_assets/game_playthrough.gif" alt="A playthrough of the game">
   <br>
-  Adventure Game
-  <br>
-</h1>
+</p>
 
 <h4 align="center"> <br>An agile approach to enhancing the classic game.</h4>
 

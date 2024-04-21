@@ -1,5 +1,8 @@
-# Adventure Game
-
+<h1 align="center">
+  <br>
+  Adventure Game - Walter's World
+  <br>
+</h1>
 <p align="center">
   <br>
   <img src="readme_assets/game_playthrough.gif" alt="A playthrough of the game">

@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Rentals 4 Real is a platform that automates the housing rental search process.
+
 
 ## My Role
 
